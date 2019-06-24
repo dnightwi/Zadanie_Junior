@@ -181,9 +181,13 @@ namespace Zadanie_Junior
                     if (search.Contains(textBox4.Text))
                         richTextBox1.Text += search + "\n";
                 }
-                else if (search.Contains(textBox1.Text) || search.Contains(textBox2.Text) ||
+                else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 1 &&
+                    comboBox3.SelectedIndex == 1 && comboBox4.SelectedIndex == 1)
+                {
+                    if (search.Contains(textBox1.Text) || search.Contains(textBox2.Text) ||
                        search.Contains(textBox3.Text) || search.Contains(textBox4.Text))
-                    richTextBox1.Text += search + "\n";
+                        richTextBox1.Text += search + "\n";
+                }
             }
         }
 

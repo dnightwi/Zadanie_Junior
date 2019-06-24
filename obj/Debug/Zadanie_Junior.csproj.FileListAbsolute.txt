@@ -8,3 +8,13 @@ C:\Users\vvp23_000\source\repos\Zadanie_Junior\Zadanie_Junior\obj\Debug\Zadanie_
 C:\Users\vvp23_000\source\repos\Zadanie_Junior\Zadanie_Junior\obj\Debug\Zadanie_Junior.csproj.CoreCompileInputs.cache
 C:\Users\vvp23_000\source\repos\Zadanie_Junior\Zadanie_Junior\obj\Debug\Zadanie_Junior.exe
 C:\Users\vvp23_000\source\repos\Zadanie_Junior\Zadanie_Junior\obj\Debug\Zadanie_Junior.pdb
+C:\Users\vvp23_000\Desktop\Z\Zadanie_Junior-master\bin\Debug\Zadanie_Junior.exe.config
+C:\Users\vvp23_000\Desktop\Z\Zadanie_Junior-master\bin\Debug\Zadanie_Junior.exe
+C:\Users\vvp23_000\Desktop\Z\Zadanie_Junior-master\bin\Debug\Zadanie_Junior.pdb
+C:\Users\vvp23_000\Desktop\Z\Zadanie_Junior-master\obj\Debug\Zadanie_Junior.csprojAssemblyReference.cache
+C:\Users\vvp23_000\Desktop\Z\Zadanie_Junior-master\obj\Debug\Zadanie_Junior.Form1.resources
+C:\Users\vvp23_000\Desktop\Z\Zadanie_Junior-master\obj\Debug\Zadanie_Junior.Properties.Resources.resources
+C:\Users\vvp23_000\Desktop\Z\Zadanie_Junior-master\obj\Debug\Zadanie_Junior.csproj.GenerateResource.cache
+C:\Users\vvp23_000\Desktop\Z\Zadanie_Junior-master\obj\Debug\Zadanie_Junior.csproj.CoreCompileInputs.cache
+C:\Users\vvp23_000\Desktop\Z\Zadanie_Junior-master\obj\Debug\Zadanie_Junior.exe
+C:\Users\vvp23_000\Desktop\Z\Zadanie_Junior-master\obj\Debug\Zadanie_Junior.pdb
